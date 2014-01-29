@@ -47,6 +47,8 @@
   remove-word
   dissoc)
 
+(declare walk-the-path)
+
 (defn- try-various-steps-in-path
   [markov-map occurrences-from-previous-word path-to-walk rick-roll-text-so-far]
   (loop [occurrences occurrences-from-previous-word]
