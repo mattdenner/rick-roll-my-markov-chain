@@ -6,7 +6,7 @@ Clojure code to produce [Rick Rolled](http://en.wikipedia.org/wiki/Rickrolling) 
 ## Usage
 
 See the comment at the bottom of
-[src/rick-roll-my-markov-chain/core.clj](https://github.com/mattdenner/rick-roll-my-markov-chain/blob/master/src/rick-roll-my-markov-chain/core.clj#L78)
+[src/rick-roll-my-markov-chain/core.clj](https://github.com/mattdenner/rick-roll-my-markov-chain/blob/master/src/rick_roll_my_markov_chain/core.clj#L79)
 which can be pasted into a `lein repl` session.
 
 ## License
